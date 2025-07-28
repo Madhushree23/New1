@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 //THIS IS BY MADHU
 //And this is me
-//Thanks
+//Thanks you
 public class MyDemo {
 	
 
